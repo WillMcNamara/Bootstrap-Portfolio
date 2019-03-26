@@ -1,3 +1,11 @@
-.nav-tabs {
-    float:right;
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
+
+.input-lg {
+    height: 100px;
+}
+
+/* struggling to figure out how to get the content height to fill the page regardless of screen size. */
